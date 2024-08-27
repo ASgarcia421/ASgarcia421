@@ -1,7 +1,9 @@
 # Hello, Alejandro Garcia
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a Marine Veteran and accomplished Network Development Engineer, I bring a wealth of expertise in designing, implementing and optimizing network infrastructures. My commitment to continuous improvement is underscored by my training and certification in AWS, Network+, showcasing proficiency in cloud solution and networking technologies. Additionally, I hold Linux+ certification, demonstrating proficiency in Linux operation Systems.
+My military background has instilled in me a strong work ethic, discipline, and adaptability, all which are crucial traits in the fast-paced and dynamic field of network development. With hands-on experience and training in AWS technologies, coupled with comprehensive knowledge validated by certification, I am well-equipped to contribute to cutting edge projects and ensure the seamless operation of complex network, positions me as a valuable asset in driving innovation and efficacy in the realm of IT 
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
