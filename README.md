@@ -20,8 +20,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Skill & Tools
+Programming and Scripting: Python, Bash, CMD, CLI 
+Operating Systems: Linux (Ubuntu, CentOS, Red Hat, Git, LVM, NFS, virtualization and Apache setup) 
+Networking: VM, RLAN/WAN/VLAN/WLAN, VPN, DNS, DHCP, IPv4, IPv6, OSI Model, Fiber Optics, TCP/IP, Routing & Switching
+Cloud Environment Familiarity: AWS Cloud services, hybrid and private clouds, EC2 ECS, EKS, Lambda, VPCVPNS, AWS Direct Connect, S3, EBS, EFS, RDS, IAM, MFA, Guard-Duty, Macie
+Software:  Wireshark, Nmap, GNS3 
+Methodologies: Agile, Waterfall, Scrum, Six Sigma, Lean, 
+
 
 ### Network
 <div>
