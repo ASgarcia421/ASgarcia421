@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://portal.azure.com/#@DGarcia421live.onmicrosoft.com/resource/subscriptions/abe05570-b8ac-4556-8de3-d2e7f62d937a/resourcegroups/madhat1_group/providers/microsoft.securityinsightsarg/sentinel/madhat1-loga">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://portal.azure.com/#@DGarcia421live.onmicrosoft.com/resource/abe05570-b8ac-4556-8de3-d2e7f62d937a/resourcegroups/madhat1_group/providers/microsoft.securityinsightsarg/sentinel/madhat1-loga">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
